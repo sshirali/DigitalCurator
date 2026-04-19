@@ -1,0 +1,17 @@
+pyproject.toml
+digital_curator.egg-info/PKG-INFO
+digital_curator.egg-info/SOURCES.txt
+digital_curator.egg-info/dependency_links.txt
+digital_curator.egg-info/requires.txt
+digital_curator.egg-info/top_level.txt
+host/__init__.py
+host/duplicate_detector.py
+host/indexer.py
+host/models.py
+host/quality_assessor.py
+host/scanner.py
+host/screenshot_detector.py
+host/thumbnail_generator.py
+host/db/__init__.py
+host/db/init.py
+host/db/schema.py
